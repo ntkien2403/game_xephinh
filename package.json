@@ -1,0 +1,11 @@
+{
+  "name": "game",
+  "version": "20.11.1",
+  "description": "kiwn",
+  "main": "index.js",
+  "scripts": {
+    "test": "very"
+  },
+  "author": "",
+  "license": "ISC"
+}
